@@ -1,0 +1,4 @@
+month,forecast_demand,forecast_revenue,lower_bound,upper_bound,type
+2025-11,17004.0,17657888.0,15304.0,18704.0,Forecast
+2025-12,16202.0,16864014.0,14582.0,17822.0,Forecast
+2026-01,15137.0,15729952.0,13623.0,16651.0,Forecast

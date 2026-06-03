@@ -1,0 +1,6 @@
+supplier,total_orders,total_revenue,avg_lead_time,otd_pct,avg_defects,total_units
+Supplier A,432,106464564.0,7.68,38.9,9.65,111438.0
+Supplier C,395,102900711.0,7.49,41.3,9.62,102165.0
+Supplier D,312,87047315.0,7.56,38.8,9.84,79498.0
+Supplier E,246,65307056.0,7.65,40.7,9.68,65968.0
+Supplier B,215,54760775.0,7.83,39.5,9.82,54880.0

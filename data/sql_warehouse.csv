@@ -1,0 +1,5 @@
+warehouse,total_orders,total_revenue,otd_pct,avg_lead_time
+Delhi,435,116668345.0,38.6,7.74
+Mumbai,383,104221863.0,38.6,7.62
+Hyderabad,396,103413940.0,38.1,7.63
+Chennai,386,92176272.0,44.0,7.5

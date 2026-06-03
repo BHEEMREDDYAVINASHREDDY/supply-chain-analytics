@@ -1,0 +1,6 @@
+category,avg_monthly_demand,total_demand,peak_demand,recommended_safety_stock
+Apparel,4420.0,75137,7183,2210.0
+Electronics,5215.0,88662,6964,2608.0
+Finished Goods,4949.0,84136,7211,2474.0
+Packaging,4876.0,82886,7666,2438.0
+Raw Materials,4890.0,83128,7012,2445.0

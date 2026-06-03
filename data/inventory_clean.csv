@@ -1,0 +1,31 @@
+product_id,category,supplier,current_stock,reorder_point,max_capacity,monthly_demand,warehouse,unit_cost,days_of_stock,stockout_risk,turnover_ratio,below_reorder,fill_rate_pct
+SKU-001,Electronics,Supplier E,537,59,799,187,Hyderabad,443.04,86.1,Low,0.35,0,67.2
+SKU-002,Electronics,Supplier E,50,106,686,220,Hyderabad,637.04,6.8,High,4.4,1,7.3
+SKU-003,Packaging,Supplier E,315,115,585,102,Chennai,234.97,92.6,Low,0.32,0,53.8
+SKU-004,Packaging,Supplier A,433,168,683,326,Mumbai,775.69,39.8,Low,0.75,0,63.4
+SKU-005,Packaging,Supplier B,154,161,915,178,Mumbai,1007.6,26.0,Low,1.16,1,16.8
+SKU-006,Raw Materials,Supplier D,544,64,636,244,Mumbai,1185.42,66.9,Low,0.45,0,85.5
+SKU-007,Apparel,Supplier D,23,62,417,341,Delhi,1075.84,2.0,High,14.83,1,5.5
+SKU-008,Packaging,Supplier E,197,163,813,131,Delhi,247.02,45.1,Low,0.66,0,24.2
+SKU-009,Apparel,Supplier D,278,167,408,362,Hyderabad,700.42,23.0,Low,1.3,0,68.1
+SKU-010,Apparel,Supplier C,84,191,819,310,Chennai,86.72,8.1,High,3.69,1,10.3
+SKU-011,Electronics,Supplier B,382,163,428,170,Chennai,56.16,67.4,Low,0.45,0,89.3
+SKU-012,Finished Goods,Supplier B,36,83,747,296,Hyderabad,676.99,3.6,High,8.22,1,4.8
+SKU-013,Finished Goods,Supplier B,219,150,975,157,Mumbai,401.85,41.8,Low,0.72,0,22.5
+SKU-014,Raw Materials,Supplier C,563,74,849,211,Delhi,1034.54,80.0,Low,0.37,0,66.3
+SKU-015,Raw Materials,Supplier A,231,161,779,147,Chennai,1094.63,47.1,Low,0.64,0,29.7
+SKU-016,Finished Goods,Supplier C,454,103,765,284,Hyderabad,1346.24,48.0,Low,0.63,0,59.3
+SKU-017,Finished Goods,Supplier B,292,61,626,264,Mumbai,1148.2,33.2,Low,0.9,0,46.6
+SKU-018,Electronics,Supplier B,309,175,517,314,Mumbai,100.92,29.5,Low,1.02,0,59.8
+SKU-019,Electronics,Supplier B,502,186,811,220,Delhi,576.29,68.5,Low,0.44,0,61.9
+SKU-020,Finished Goods,Supplier D,253,80,755,312,Delhi,431.34,24.3,Low,1.23,0,33.5
+SKU-021,Packaging,Supplier A,427,127,653,140,Hyderabad,597.61,91.5,Low,0.33,0,65.4
+SKU-022,Packaging,Supplier C,165,102,942,388,Hyderabad,265.31,12.8,Medium,2.35,0,17.5
+SKU-023,Electronics,Supplier B,581,161,843,267,Mumbai,173.63,65.3,Low,0.46,0,68.9
+SKU-024,Apparel,Supplier E,449,92,480,133,Mumbai,795.85,101.3,Low,0.3,0,93.5
+SKU-025,Finished Goods,Supplier A,451,91,445,374,Chennai,1088.96,36.2,Low,0.83,0,101.3
+SKU-026,Raw Materials,Supplier E,564,173,448,296,Mumbai,1061.81,57.2,Low,0.52,0,125.9
+SKU-027,Packaging,Supplier A,516,116,848,290,Hyderabad,692.89,53.4,Low,0.56,0,60.8
+SKU-028,Apparel,Supplier B,108,115,806,320,Delhi,797.75,10.1,Medium,2.96,1,13.4
+SKU-029,Packaging,Supplier A,430,193,682,109,Hyderabad,789.0,118.3,Low,0.25,0,63.0
+SKU-030,Apparel,Supplier A,260,132,872,219,Chennai,1046.61,35.6,Low,0.84,0,29.8

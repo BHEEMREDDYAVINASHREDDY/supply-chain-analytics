@@ -1,0 +1,7 @@
+product_id,category,supplier,warehouse,current_stock,reorder_point,days_of_stock,stockout_risk
+SKU-007,Apparel,Supplier D,Delhi,23,62,2.0,High
+SKU-012,Finished Goods,Supplier B,Hyderabad,36,83,3.6,High
+SKU-002,Electronics,Supplier E,Hyderabad,50,106,6.8,High
+SKU-010,Apparel,Supplier C,Chennai,84,191,8.1,High
+SKU-028,Apparel,Supplier B,Delhi,108,115,10.1,Medium
+SKU-005,Packaging,Supplier B,Mumbai,154,161,26.0,Low

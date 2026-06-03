@@ -1,0 +1,6 @@
+supplier,country,contract_value,rating,since_year,payment_terms,category_focus
+Supplier A,India,5000000,4.5,2015,Net 30,Electronics
+Supplier B,China,3200000,3.1,2019,Net 45,Apparel
+Supplier C,India,4500000,4.2,2017,Net 30,Packaging
+Supplier D,Vietnam,2800000,3.8,2020,Net 60,Raw Materials
+Supplier E,India,3900000,4.7,2016,Net 30,Finished Goods
